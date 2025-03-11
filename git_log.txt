@@ -1,1 +1,2 @@
 2025-03-11: Small tweaks ✏️
+2025-03-11: Fixing logs verbosity 📊
