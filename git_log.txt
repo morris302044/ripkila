@@ -1,2 +1,3 @@
 2025-03-11: Small tweaks ✏️
 2025-03-11: Fixing logs verbosity 📊
+2025-03-12: Improved API response times ⚡
